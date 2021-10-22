@@ -1,0 +1,10 @@
+log_level: info
+port: 7880
+rtc:
+    port_range_start: 10000
+    port_range_end: 20000
+    use_external_ip: true
+    tcp_port: 7881
+    udp_port: 7882
+keys:
+    APIn26mHVrdLxBo: MZmJfu0DecJ23eJv7azV1iAfyerPK7LsDXpPq7f6zCdI
